@@ -6,3 +6,4 @@ p2
 p3
 novi1
 novi2
+stari1
