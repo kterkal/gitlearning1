@@ -7,3 +7,4 @@ p3
 novi1
 novi2
 stari1
+dod1
